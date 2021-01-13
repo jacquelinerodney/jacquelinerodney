@@ -16,3 +16,6 @@ Fun Fact: My 2021 goal is to become a polygot! Currently learning: Hindi, Spanis
 ### Skills & Languages : 
 HTML, CSS, Javascript, Node.js, jQuery, GitHub, Python
 
+### Contact info :
+
+📩 jacquelinerodney7@gmail.com
