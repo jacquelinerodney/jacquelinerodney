@@ -14,7 +14,7 @@ Fun Fact: My 2021 goal is to become a polygot! Currently learning: Hindi, Spanis
 - technology that provides solutions for sustainbility in regards to international supply chain & manufacturing 
 
 ### Skills & Languages : 
-HTML, CSS, Javascript, Node.js, jQuery, GitHub, Python
+HTML, CSS, Javascript, Node.js, jQuery, GitHub, mySQL
 
 ### Contact info :
 
